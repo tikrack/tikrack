@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=actix,arduino,babel,bash,bootstrap,bun,css,deno,express,figma,git,githubactions,html,idea,js,jquery,laravel,linux,md,mongodb,mysql,nextjs,nginx,nodejs,php,postman,pug,redux,redis,rust,sass,tailwind,tauri,ts,vim,vite,windows,yarn,workers,webpack,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=arduino,babel,bash,bootstrap,bun,css,deno,express,figma,git,githubactions,html,cs,idea,js,jquery,laravel,linux,md,mongodb,mysql,nextjs,react,nginx,nodejs,php,postman,pug,redux,redis,rust,sass,tailwind,tauri,ts,vim,vite,yarn,workers,webpack,vercel,npm" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tikrack&show_icons=true&locale=en&layout=compact" alt="tikrack" /></p>
 
