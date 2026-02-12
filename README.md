@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://tikrack.ir](https://tikrack.ir)
 
-- 💬 Ask me about **React, Nextjs, Nodejs, Git**
+- 💬 Ask me about **React, Nextjs, Nodejs, Git, Laravel**
 
 - 📫 How to reach me **tikrackcode@gmail.com**
 
