@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamadreza'Tikrack' Nasrollahzade</h1>
-<h3 align="center">Frontend & Backend Developer • Operating Systems • Low-Level Programming</h3>
+<h3 align="center">إFull Stack Web Developer • Operating Systems • Low-Level Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tikrack&label=Profile%20views&color=0e75b6&style=flat" alt="tikrack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tikrack" alt="tikrack" /></a> </p>
 
-- 🔭 I’m currently working on [Harmony Erp](http://github.com/harmonySystem/)
+- 🔭 I’m currently working on [Harmony Erp](http://github.com/harmonysystem/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tikrack?tab=repositories](https://github.com/tikrack?tab=repositories)
 
