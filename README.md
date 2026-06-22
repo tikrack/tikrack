@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamadreza'Tikrack' Nasrollahzade</h1>
-<h3 align="center">إFull Stack Web Developer • Operating Systems • Low-Level Programming</h3>
+<h3 align="center">Juinor Full Stack Web Developer • Operating Systems • Low-Level Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tikrack&label=Profile%20views&color=0e75b6&style=flat" alt="tikrack" /> </p>
 
